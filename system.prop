@@ -8,6 +8,10 @@ persist.sys.sf.disable_blurs=1
 # Charger
 ro.charger.enable_suspend=true
 
+# Display
+persist.lcd.cabc_mode=1
+persist.lcd.hbm_mode=0
+
 # Doze
 ro.sensor.proximity=true
 ro.sensor.pickup=xiaomi.sensor.pickup
