@@ -116,10 +116,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     KeyHandler
 
-# Lights
-PRODUCT_PACKAGES += \
-    android.hardware.light@2.0-service.ginkgo
-
 # NFC
 TARGET_NFC_SKU := willow
 
