@@ -122,6 +122,7 @@ TARGET_NFC_SKU := willow
 # Overlays
 PRODUCT_PACKAGES += \
     AOSPAGinkgoFrameworks \
+    AOSPAGinkgoSettings \
     GinkgoFrameworks \
     GinkgoSettingsLib \
     GinkgoSystemUI \
